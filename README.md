@@ -54,4 +54,4 @@ Se utiliza el algoritmo **KMeans anidado** (clustering dentro de clusters) para 
 
 ## 🧑‍💻 Autor
 
-Johana Yepes
+
